@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.magicompany.vigeo"
         version   = "2.0.0">
-    <name>Magicompany VigeoApp</name>
+    <name>Magicompany Test VigeoApp</name>
 
     <description>
-        Test per Vigeohealthcare
+        Test per Vigeohealthcare APP
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
